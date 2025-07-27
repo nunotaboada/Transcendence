@@ -1,0 +1,14 @@
+Django
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+PyJWT
+pyotp
+qrcode
+channels_redis
+channels
+# daphne==4.1.2
+gunicorn
+python-dotenv
+Pillow
+requests #acrescentado para fazer o request

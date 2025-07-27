@@ -107,7 +107,7 @@ Meets all 7 major modules and 2 minor modules:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/nunotaboada/Transcendence.git
-   cd Transcendence
+   cd Transcendence/transcendence
    ```
 
 2. **Run the Application**:

@@ -59,22 +59,23 @@ Transcendence is a single-page application (SPA) developed for the 42 school cur
 ## Screenshots
 Below are screenshots showcasing the Transcendence interface, games, and features.
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div align= "center">
   <img src="assets/init.png" alt="Pong Local" style="width: 400px; height: auto; border: 1px solid #blue;">
   <img src="assets/menu_game.png" alt="Snake Local" style="width: 400px; height: auto; border: 1px solid #ccc;">
 </div>
 <br>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align= "center">
   <img src="assets/menu_game1.png" alt="Pong Tournament" style="width: 400px; height: auto; border: 1px solid #ccc;">
   <img src="assets/chat.png" alt="Snake Free-for-All" style="width: 400px; height: auto; border: 1px solid #ccc;">
 </div>
 <br>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align= "center">
   <img src="assets/pong.png" alt="Pong Tournament" style="width: 400px; height: auto; border: 2px solid #ccc;">
   <img src="assets/snake.png" alt="Snake Free-for-All" style="width: 400px; height: auto; border: 1px solid #ccc;">
 </div>
 <br>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align= "center">
   <img src="assets/user.png" alt="Pong Tournament" style="width: 400px; height: auto; border: 1px solid #ccc;">
   <img src="assets/user1.png" alt="Snake Free-for-All" style="width: 400px; height: auto; border: 1px solid #ccc;">
 </div>

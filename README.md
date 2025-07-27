@@ -36,7 +36,7 @@ Transcendence is a single-page application (SPA) developed for the 42 school cur
 
 ### Games
 - **Pong**:
-  - **Local Mode**: Two players on one device, equal paddle speeds (15), scoring to 10, retro “PONG” logo.
+  - **Local Mode**: Two players on one device, equal paddle speeds, scoring to 10, retro “PONG” logo.
   - **Remote Mode**: Multiplayer via WebSocket, server-driven paddle/ball updates, ranked matches.
   - **Tournament Mode**: Local 4 or 8-player tournaments with a visual bracket, sequential matches, and winner announcement with confetti.
 - **Snake**:
@@ -59,14 +59,26 @@ Transcendence is a single-page application (SPA) developed for the 42 school cur
 ## Screenshots
 Below are screenshots showcasing the Transcendence interface, games, and features.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="assets/" alt="Pong Local" style="width: 300px; height: auto; border: 1px solid #ccc;">
-  <img src="frontend/www/files/1vs1SnakeLocal.png" alt="Snake Local" style="width: 300px; height: auto; border: 1px solid #ccc;">
-  <img src="frontend/www/files/4PongTournament.png" alt="Pong Tournament" style="width: 300px; height: auto; border: 1px solid #ccc;">
-  <img src="frontend/www/files/4SnakeFreeForAll.png" alt="Snake Free-for-All" style="width: 300px; height: auto; border: 1px solid #ccc;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="assets/init.png" alt="Pong Local" style="width: 400px; height: auto; border: 1px solid #blue;">
+  <img src="assets/menu_game.png" alt="Snake Local" style="width: 400px; height: auto; border: 1px solid #ccc;">
+</div>
+<br>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="assets/menu_game1.png" alt="Pong Tournament" style="width: 400px; height: auto; border: 1px solid #ccc;">
+  <img src="assets/chat.png" alt="Snake Free-for-All" style="width: 400px; height: auto; border: 1px solid #ccc;">
+</div>
+<br>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="assets/pong.png" alt="Pong Tournament" style="width: 400px; height: auto; border: 2px solid #ccc;">
+  <img src="assets/snake.png" alt="Snake Free-for-All" style="width: 400px; height: auto; border: 1px solid #ccc;">
+</div>
+<br>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="assets/user.png" alt="Pong Tournament" style="width: 400px; height: auto; border: 1px solid #ccc;">
+  <img src="assets/user1.png" alt="Snake Free-for-All" style="width: 400px; height: auto; border: 1px solid #ccc;">
 </div>
 
-*Instructions*: Ensure images (`frontend/www/files/1vs1PongLocal.png`, `frontend/www/files/1vs1SnakeLocal.png`, `frontend/www/files/4PongTournament.png`, `frontend/www/files/4SnakeFreeForAll.png`) are optimized (max 5MB, PNG/JPG) and included in the repository.
 
 ## Modules Implemented
 Meets all 7 major modules and 2 minor modules:
